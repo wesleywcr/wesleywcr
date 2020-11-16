@@ -27,7 +27,7 @@
 
 <details>
   <summary>More</summary>
-<h1>There is no internet Connecection<a href="chrome://dino">[▶️]</a> </h1>
+<h1>There is no internet Connecection </h1>
 
 <img src="https://i.ibb.co/X4G17Cn/dino.gif" alt="dino" border="0" />
 
