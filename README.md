@@ -29,13 +29,3 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wesleywcr&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)
 
-
-<details>
-  <summary>More</summary>
-<h1>There is no internet Connecection </h1>
-
-<img src="https://i.ibb.co/X4G17Cn/dino.gif" alt="dino" border="0" />
-
-
-</details>
-
