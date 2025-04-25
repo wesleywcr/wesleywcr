@@ -7,7 +7,6 @@
 
 **💡** " I believe that technology changes the way we see the world, because each day it can solve a different problem. "
 
-*  📅 I'm 23 years old
 *  📚 Graduated Analysis and Systems Development at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/)
 *  🚀 Software Developer
 *  🖥️ Operational System  Kubuntu
